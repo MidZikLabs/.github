@@ -1,4 +1,4 @@
-# Midzik Media
+# Midzik Labs
 ## Table of Contents
 - [Introduction](#introduction)
 - [Screen Placement and Features](#screen-placement-and-features)
